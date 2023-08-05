@@ -1,4 +1,4 @@
-<img width="407" alt="image" src="https://github.com/NguyenThuong02/SSH_Botnet-Attack/assets/129138917/ac522f08-fbd1-42ae-b3f9-f9fd967dbece"># SSH_Botnet-Attack
+
 <img width="373" alt="image" src="https://github.com/NguyenThuong02/SSH_Botnet-Attack/assets/129138917/11bcd35a-e5d2-4bb3-8e62-2b04c1073aac">
 1. Choose Option 1: Check any bots are still alive.
 <img width="384" alt="image" src="https://github.com/NguyenThuong02/SSH_Botnet-Attack/assets/129138917/19ba6060-151b-4517-a686-596ba2348545">
